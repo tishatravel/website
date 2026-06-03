@@ -1,0 +1,32 @@
+{
+  "name": "Tisha Travel and Tours",
+  "tagline": "Out of Manila — international tours, charter flights & cruise packages",
+  "description": "Tisha Travel and Tours is your trusted Philippine travel agency for all-in group tours, Manila charter flights, and cruise holidays. We specialize in Korea, Vietnam, Central Asia, Japan cruises, and curated experiences with transparent pricing and dedicated support from booking to homecoming.",
+  "mission": "To make world-class international travel accessible, stress-free, and personally tailored for every Filipino traveler we serve.",
+  "differentiators": [
+    "All-in tour packages with clear inclusions and exclusions",
+    "Out of Manila charter flights and scheduled group departures",
+    "Visa-free and guided tours to Korea, Vietnam, Kazakhstan, and more",
+    "Japan cruise packages aboard Adora Mediterranea — no visa required",
+    "Experienced consultants for quotations, payments, and travel preparation",
+    "Responsive support via phone, email, and Facebook Messenger"
+  ],
+  "contact": {
+    "phone": "0936 694 7941",
+    "email": "tishatravelandtours@gmail.com",
+    "facebookUrl": "https://www.facebook.com/tishatravelandtours",
+    "address": "Philippines — Serving travelers nationwide"
+  },
+  "logo": {
+    "src": "assets/images/logo.png",
+    "alt": "Tisha Travel and Tours logo"
+  },
+  "hero": {
+    "headline": "Your Next Adventure Starts Here",
+    "subheadline": "All-in tours to Korea, Vietnam, Central Asia, Japan cruises & more — departing from Manila.",
+    "image": {
+      "src": "assets/images/packages/central-asia-3in1-10d8n.png",
+      "alt": "Central Asia tour — Kazakhstan, Uzbekistan and Kyrgyzstan"
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "id": "kazakhstan-6d5n",
+      "title": "Kazakhstan Central Asia Tour",
+      "destination": "Almaty, Kazakhstan",
+      "type": "international",
+      "duration": "6 Days / 5 Nights",
+      "description": "Visa-free all-in tour from Manila via China Southern Airlines. Explore Almaty city, Charyn Canyon, Kolsay Lake, Kok Tobe Hill, and Green Bazaar with English-speaking guide.",
+      "image": {
+        "src": "assets/images/packages/kazakhstan-6d5n.png",
+        "alt": "Kazakhstan 6D5N tour — mountains and Central Asia"
+      },
+      "inclusions": [
+        "Economy airfare & tax (China Southern Airlines)",
+        "1pc 23kg check-in baggage",
+        "5 nights 4★ hotel (twin sharing) with daily breakfast",
+        "9 meals as per itinerary",
+        "Private coach & English-speaking tour guide",
+        "Sightseeing & main entrance tickets as specified"
+      ],
+      "exclusions": [
+        "Personal expenses",
+        "Extra baggage",
+        "Travel insurance with Covid-19 coverage",
+        "Philippines travel tax (USD 31/PAX)",
+        "Single supplement (USD 366/PAX)",
+        "Tips: USD 10/PAX/day (USD 60 total for 6 days)"
+      ],
+      "priceFrom": "From $1,988 All-In / person",
+      "departureDates": "2026: Jul 10–15, Aug 7–12 (+$50/PAX), Sep 4–9, Oct 2–7",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "da-nang-6d4n",
+      "title": "Da Nang Charter — Ba Na Hills & Hoi An",
+      "destination": "Da Nang, Vietnam",
+      "type": "international",
+      "duration": "6 Days / 4 Nights",
+      "description": "Manila charter flight to Da Nang with overnight at Ba Na Hills Grand Mercure, Golden Bridge, Hoi An Ancient Town, Coconut Boat Ride, and Son Tra Peninsula.",
+      "image": {
+        "src": "assets/images/packages/da-nang-6d4n.png",
+        "alt": "Da Nang Vietnam tour — Ba Na Hills Golden Bridge"
+      },
+      "inclusions": [
+        "Charter flight Manila–Da Nang–Manila (VJ)",
+        "20kg check-in + 7kg carry-on baggage",
+        "4 nights hotel (twin sharing)",
+        "7 meals as per itinerary",
+        "Sightseeing tours & entrance fees",
+        "Air-conditioned bus & English-speaking guide"
+      ],
+      "exclusions": [
+        "Visa (if applicable)",
+        "Single supplement (USD 95)",
+        "PH travel tax, terminal fees, tips (USD 25)",
+        "Optional tour: Han River Cruise + massage + buffet (USD 99/PAX)",
+        "Fuel surcharge & personal expenses"
+      ],
+      "priceFrom": "From ₱29,888 All-In / person",
+      "departureDates": "Multiple 2026 departures Jul–Dec — surcharges apply on select dates",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "korea-seoul-6d4n",
+      "title": "Daebak Korea — Manila Seoul 6D4N",
+      "destination": "Seoul & Chuncheon, South Korea",
+      "type": "international",
+      "duration": "6 Days / 4 Nights",
+      "description": "Cebu Pacific out of Manila. Cherry blossom season highlights: Nami Island, Gyeongbokgung Palace, N Seoul Tower, Myeongdong, and optional Everland Theme Park.",
+      "image": {
+        "src": "assets/images/packages/korea-seoul-6d4n.png",
+        "alt": "Korea Seoul tour — cherry blossoms and N Seoul Tower"
+      },
+      "inclusions": [
+        "Round-trip airfare via Cebu Pacific (7kg hand carry)",
+        "4 nights accommodation (twin sharing) with breakfast",
+        "Sightseeing tours & entrance fees as specified",
+        "Private coach & English-speaking guide",
+        "Meals per itinerary (B/L/X)"
+      ],
+      "exclusions": [
+        "Checked baggage allowance",
+        "Korea visa",
+        "Tips: USD 20/PAX",
+        "Philippine travel tax (PHP 1,620/PAX)",
+        "Single supplement, travel insurance, personal expenses"
+      ],
+      "priceFrom": "From ₱29,888 All-In / person",
+      "departureDates": "2027: Mar 5–Apr 14 (rates from ₱29,888–₱33,888/PAX)",
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "japan-cruise-7d6n",
+      "title": "Manila to Japan Cruise — Adora Mediterranea",
+      "destination": "Naha & Miyakojima, Japan",
+      "type": "international",
+      "duration": "7 Days / 6 Nights",
+      "description": "Visa-free cruise from Manila aboard Adora Mediterranea. Full-board dining, live shows, and special promos including Buy 2 Get 50% Off for 3rd guest (triple sharing).",
+      "image": {
+        "src": "assets/images/packages/japan-cruise-7d6n.png",
+        "alt": "Japan cruise — Adora Mediterranea Manila to Japan"
+      },
+      "inclusions": [
+        "Round-trip cruise fare (7D6N)",
+        "All-day dining full-board meals",
+        "Live evening shows & daytime activities",
+        "Visa-free travel"
+      ],
+      "exclusions": [
+        "Travel insurance",
+        "PH travel tax & port charges",
+        "Japan tourist arrival fee",
+        "Cruise gratuities & optional tours"
+      ],
+      "priceFrom": "From $988 / person (Interior Twin)",
+      "departureDates": "Dec 21–27, 2026 & Dec 27, 2026 – Jan 2, 2027",
+      "featured": true,
+      "order": 4
+    },
+    {
+      "id": "central-asia-3in1-10d8n",
+      "title": "Central Asia 3-in-1 Tour",
+      "destination": "Kazakhstan, Uzbekistan & Kyrgyzstan",
+      "type": "international",
+      "duration": "10 Days / 8 Nights",
+      "description": "Out of Manila all-in adventure across three countries: Almaty, Bishkek, Tashkent, and Samarkand with train tickets, 4★ hotels, and comprehensive guided sightseeing.",
+      "image": {
+        "src": "assets/images/packages/central-asia-3in1-10d8n.png",
+        "alt": "Central Asia 3in1 tour — Kazakhstan Uzbekistan Kyrgyzstan"
+      },
+      "inclusions": [
+        "Economy airfare & tax (China Southern Airlines)",
+        "1pc 23kg check-in baggage",
+        "8 nights 4★ hotel (twin sharing) with breakfast",
+        "Private coach & English-speaking guide",
+        "Bishkek–Tashkent & Tashkent–Samarkand train (2nd class RT)",
+        "Sightseeing & entrance tickets as specified"
+      ],
+      "exclusions": [
+        "Personal expenses & extra baggage",
+        "Travel insurance with Covid-19 coverage",
+        "PH travel tax (USD 31/PAX)",
+        "Uzbekistan & Kyrgyzstan e-Visa (USD 120/PAX)",
+        "Single supplement (USD 82/PAX)",
+        "Tips: USD 10/PAX/day (USD 90 total)"
+      ],
+      "priceFrom": "$3,299 All-In / person",
+      "departureDates": "2026: Jul 17–26, Aug 12–21, Sep 4–13, Oct 12–21",
+      "featured": true,
+      "order": 5
+    },
+    {
+      "id": "taiwan-2026",
+      "title": "Taiwan 2026 Group Tours",
+      "destination": "Taiwan",
+      "type": "international",
+      "duration": "Various durations",
+      "description": "Join our Taiwan departures for 2026 — cultural villages, night markets, and curated experiences. Contact us for the latest schedules and all-in pricing.",
+      "image": {
+        "src": "assets/images/gallery/taiwan-2026.png",
+        "alt": "Taiwan travel experience — Tisha Travel and Tours"
+      },
+      "inclusions": [
+        "Package varies by departure date — inquire for details"
+      ],
+      "exclusions": [
+        "Confirm inclusions when you request a quotation"
+      ],
+      "priceFrom": "Inquire for 2026 dates & rates",
+      "featured": true,
+      "order": 6
+    }
+  ]
+}

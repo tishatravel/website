@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "quote": "Booked the Korea tour with Tisha Travel — everything was organized from flights to hotels. Cherry blossom season was unforgettable!",
+      "author": "Maria C.",
+      "context": "Daebak Korea Seoul Tour",
+      "rating": 5,
+      "order": 1
+    },
+    {
+      "id": "testimonial-2",
+      "quote": "The Da Nang charter package was worth every peso. Ba Na Hills overnight and Hoi An were highlights our whole family loved.",
+      "author": "The Reyes Family",
+      "context": "Da Nang 6D4N Charter",
+      "rating": 5,
+      "order": 2
+    },
+    {
+      "id": "testimonial-3",
+      "quote": "Central Asia 3-in-1 was the trip of a lifetime. Tisha Travel explained all inclusions clearly and assisted us until departure day.",
+      "author": "Angela M.",
+      "context": "Central Asia 10D8N Tour",
+      "rating": 5,
+      "order": 3
+    },
+    {
+      "id": "testimonial-4",
+      "quote": "Quick responses on Facebook and email. Got our quotation fast and joined the Kazakhstan group tour without hassle.",
+      "author": "David L.",
+      "context": "Kazakhstan 6D5N Tour",
+      "rating": 5,
+      "order": 4
+    }
+  ]
+}

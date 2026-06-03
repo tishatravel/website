@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "gallery-kazakhstan",
+      "src": "assets/images/packages/kazakhstan-6d5n.png",
+      "alt": "Kazakhstan Central Asia tour",
+      "caption": "Kazakhstan 6D5N",
+      "destination": "Kazakhstan",
+      "order": 1
+    },
+    {
+      "id": "gallery-da-nang",
+      "src": "assets/images/packages/da-nang-6d4n.png",
+      "alt": "Da Nang Vietnam charter tour",
+      "caption": "Da Nang & Ba Na Hills",
+      "destination": "Vietnam",
+      "order": 2
+    },
+    {
+      "id": "gallery-korea",
+      "src": "assets/images/packages/korea-seoul-6d4n.png",
+      "alt": "Korea Seoul cherry blossom tour",
+      "caption": "Daebak Korea Seoul",
+      "destination": "South Korea",
+      "order": 3
+    },
+    {
+      "id": "gallery-cruise",
+      "src": "assets/images/packages/japan-cruise-7d6n.png",
+      "alt": "Japan cruise Adora Mediterranea",
+      "caption": "Manila to Japan Cruise",
+      "destination": "Japan",
+      "order": 4
+    },
+    {
+      "id": "gallery-central-asia",
+      "src": "assets/images/packages/central-asia-3in1-10d8n.png",
+      "alt": "Central Asia 3-in-1 tour",
+      "caption": "3 Countries, 10 Days",
+      "destination": "Central Asia",
+      "order": 5
+    },
+    {
+      "id": "gallery-taiwan",
+      "src": "assets/images/gallery/taiwan-2026.png",
+      "alt": "Taiwan 2026 travel with Tisha Travel",
+      "caption": "Taiwan 2026",
+      "destination": "Taiwan",
+      "order": 6
+    }
+  ]
+}

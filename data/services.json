@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "id": "international-group-tours",
+      "title": "International Group Tours",
+      "description": "All-in packages to Korea, Vietnam, Kazakhstan, Central Asia, and more — flights, hotels, meals, and guided sightseeing from Manila.",
+      "icon": "assets/icons/international.svg",
+      "order": 1
+    },
+    {
+      "id": "charter-flights",
+      "title": "Charter Flight Packages",
+      "description": "Out of Manila charter departures to top destinations like Da Nang with bundled land arrangements and resort stays.",
+      "icon": "assets/icons/domestic.svg",
+      "order": 2
+    },
+    {
+      "id": "cruise-packages",
+      "title": "Cruise Holidays",
+      "description": "Visa-free Japan cruises aboard Adora Mediterranea with full-board dining, entertainment, and flexible cabin options.",
+      "icon": "assets/icons/group.svg",
+      "order": 3
+    },
+    {
+      "id": "custom-itineraries",
+      "title": "Custom Quotations",
+      "description": "Personalized itineraries for families, couples, and groups — built around your dates, budget, and preferred destinations.",
+      "icon": "assets/icons/custom.svg",
+      "order": 4
+    },
+    {
+      "id": "travel-assistance",
+      "title": "Travel Assistance",
+      "description": "Visa guidance, travel insurance advice, payment schedules, and pre-departure support for a worry-free trip.",
+      "icon": "assets/icons/assistance.svg",
+      "order": 5
+    }
+  ]
+}

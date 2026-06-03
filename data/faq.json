@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": "faq-booking-1",
+      "category": "booking",
+      "question": "How do I book a travel package?",
+      "answer": "Browse our featured packages on this website, then submit the inquiry form or message us on Facebook at facebook.com/tishatravelandtours. You can also call 0936 694 7941 or email tishatravelandtours@gmail.com. Our team will confirm availability and send your quotation within 1–2 business days.",
+      "order": 1
+    },
+    {
+      "id": "faq-quotation-1",
+      "category": "quotation",
+      "question": "How do I request a quotation?",
+      "answer": "Use the Request a Quotation form on this page with your preferred package, travel dates, and number of travelers. Select your package of interest (e.g., Korea, Da Nang, Kazakhstan, or Japan Cruise) for a faster, accurate quote.",
+      "order": 1
+    },
+    {
+      "id": "faq-inclusions-1",
+      "category": "inclusions",
+      "question": "What is included in your all-in packages?",
+      "answer": "Each flyer and package listing shows specific inclusions such as airfare, hotels, meals (B/L/D), tours, and guides. Exclusions typically cover travel tax, tips, visa fees, insurance, and personal expenses. Always confirm your final quotation before payment.",
+      "order": 1
+    },
+    {
+      "id": "faq-payment-1",
+      "category": "payment",
+      "question": "What are the payment terms?",
+      "answer": "A deposit is required to secure your slot on group departures, with the balance due before travel as stated on your quotation. Payment methods and schedules will be provided by your Tisha Travel consultant.",
+      "order": 1
+    },
+    {
+      "id": "faq-followup-1",
+      "category": "follow-up",
+      "question": "What happens after I submit an inquiry?",
+      "answer": "We will contact you within 1–2 business days via phone, email, or Facebook Messenger. We assist with quotations, documentation, payment reminders, and pre-departure briefing for your chosen tour date.",
+      "order": 1
+    },
+    {
+      "id": "faq-general-1",
+      "category": "general",
+      "question": "Do you offer tours not listed on the website?",
+      "answer": "Yes. We regularly open new departures for Taiwan 2026 and other destinations. Contact us for the latest schedules, charter flights, and cruise cabin availability.",
+      "order": 1
+    }
+  ]
+}

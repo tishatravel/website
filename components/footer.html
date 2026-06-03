@@ -1,0 +1,23 @@
+<div class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__brand">
+      <img data-logo src="assets/images/logo.png" alt="" width="40" height="40">
+      <span data-company-name>Tisha Travel and Tours</span>
+    </div>
+    <nav class="site-footer__nav" aria-label="Footer navigation">
+      <a href="#about">About</a>
+      <a href="#packages">Packages</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="site-footer__contact">
+      <a data-contact-phone href="#">Phone</a>
+      <a data-contact-email href="#">Email</a>
+      <a data-contact-facebook href="#">Facebook</a>
+    </div>
+    <p class="site-footer__copy">&copy; <span data-year></span> <span data-company-name>Tisha Travel and Tours</span>. All rights reserved.</p>
+  </div>
+</div>
+<script>
+  document.querySelectorAll('[data-year]').forEach(el => el.textContent = new Date().getFullYear());
+</script>

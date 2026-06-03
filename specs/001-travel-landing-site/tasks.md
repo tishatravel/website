@@ -19,9 +19,9 @@
 
 **Purpose**: Initialize project directory structure and asset layout
 
-- [ ] T001 Create project directory structure: `css/components/`, `js/components/`, `components/`, `data/`, `assets/images/packages/`, `assets/images/gallery/`, `assets/icons/`
-- [ ] T002 [P] Copy brand logo from `assets/Icon_white.png` to `assets/images/logo.png` for use in header and footer
-- [ ] T003 [P] Create empty component CSS stub files in `css/components/` for header, hero, about, services, packages, testimonials, gallery, faq, contact, and footer
+- [x] T001 Create project directory structure: `css/components/`, `js/components/`, `components/`, `data/`, `assets/images/packages/`, `assets/images/gallery/`, `assets/icons/`
+- [x] T002 [P] Copy brand logo from `assets/Icon_white.png` to `assets/images/logo.png` for use in header and footer
+- [x] T003 [P] Create empty component CSS stub files in `css/components/` for header, hero, about, services, packages, testimonials, gallery, faq, contact, and footer
 
 ---
 
@@ -31,13 +31,13 @@
 
 **⚠️ CRITICAL**: No user story work can begin until this phase is complete
 
-- [ ] T004 Create design tokens, reset, and typography in `css/base.css` per `specs/001-travel-landing-site/contracts/ui-components.md`
-- [ ] T005 Create mobile-first grid, containers, and section spacing in `css/layout.css`
-- [ ] T006 Create `index.html` shell with SEO meta tags, Open Graph tags, JSON-LD TravelAgency schema, skip-to-content link, and section mount points (`#site-header`, `#hero`, `#about`, `#services`, `#packages`, `#testimonials`, `#gallery`, `#faq`, `#contact`, `#site-footer`)
-- [ ] T007 Create `data/company.json` with Tisha Travel and Tours placeholder content per `specs/001-travel-landing-site/contracts/content-schemas.md`
-- [ ] T008 Create `js/config.js` exporting site configuration and Web3Forms access key placeholder per `specs/001-travel-landing-site/contracts/inquiry-form.md`
-- [ ] T009 Create `js/main.js` with component registry, `fetch()` partial loader, and `company.json` bootstrap per `specs/001-travel-landing-site/contracts/ui-components.md`
-- [ ] T010 Link `css/base.css`, `css/layout.css`, and `js/main.js` (ES module) in `index.html`
+- [x] T004 Create design tokens, reset, and typography in `css/base.css` per `specs/001-travel-landing-site/contracts/ui-components.md`
+- [x] T005 Create mobile-first grid, containers, and section spacing in `css/layout.css`
+- [x] T006 Create `index.html` shell with SEO meta tags, Open Graph tags, JSON-LD TravelAgency schema, skip-to-content link, and section mount points (`#site-header`, `#hero`, `#about`, `#services`, `#packages`, `#testimonials`, `#gallery`, `#faq`, `#contact`, `#site-footer`)
+- [x] T007 Create `data/company.json` with Tisha Travel and Tours placeholder content per `specs/001-travel-landing-site/contracts/content-schemas.md`
+- [x] T008 Create `js/config.js` exporting site configuration and Web3Forms access key placeholder per `specs/001-travel-landing-site/contracts/inquiry-form.md`
+- [x] T009 Create `js/main.js` with component registry, `fetch()` partial loader, and `company.json` bootstrap per `specs/001-travel-landing-site/contracts/ui-components.md`
+- [x] T010 Link `css/base.css`, `css/layout.css`, and `js/main.js` (ES module) in `index.html`
 
 **Checkpoint**: Foundation ready — user story implementation can now begin
 
@@ -51,12 +51,12 @@
 
 ### Implementation for User Story 1
 
-- [ ] T011 [P] [US1] Create inquiry form markup in `components/contact.html` per `specs/001-travel-landing-site/contracts/inquiry-form.md`
-- [ ] T012 [P] [US1] Implement mobile-first form styles in `css/components/contact.css`
-- [ ] T013 [US1] Implement client-side validation, Web3Forms submission, mailto fallback, and success/error states in `js/components/inquiry-form.js`
-- [ ] T014 [US1] Register contact component in `js/main.js` and wire `init()` for `#contact` mount point
-- [ ] T015 [US1] Add `<noscript>` contact fallback block with phone and email links in `index.html`
-- [ ] T016 [US1] Add stylesheet link for `css/components/contact.css` in `index.html`
+- [x] T011 [P] [US1] Create inquiry form markup in `components/contact.html` per `specs/001-travel-landing-site/contracts/inquiry-form.md`
+- [x] T012 [P] [US1] Implement mobile-first form styles in `css/components/contact.css`
+- [x] T013 [US1] Implement client-side validation, Web3Forms submission, mailto fallback, and success/error states in `js/components/inquiry-form.js`
+- [x] T014 [US1] Register contact component in `js/main.js` and wire `init()` for `#contact` mount point
+- [x] T015 [US1] Add `<noscript>` contact fallback block with phone and email links in `index.html`
+- [x] T016 [US1] Add stylesheet link for `css/components/contact.css` in `index.html`
 
 **Checkpoint**: Inquiry form fully functional — site delivers lead-generation MVP value
 
@@ -70,12 +70,12 @@
 
 ### Implementation for User Story 2
 
-- [ ] T017 [P] [US2] Create sample featured packages in `data/packages.json` per `specs/001-travel-landing-site/contracts/content-schemas.md`
-- [ ] T018 [P] [US2] Create package grid template in `components/packages.html`
-- [ ] T019 [P] [US2] Implement mobile-first package card styles in `css/components/packages.css`
-- [ ] T020 [US2] Implement package rendering, detail display, and Inquire CTA pre-selection in `js/components/packages.js`
-- [ ] T021 [US2] Add empty-state "Contact us for custom travel" CTA in `js/components/packages.js` when no featured packages exist
-- [ ] T022 [US2] Register packages component in `js/main.js` and add stylesheet link in `index.html`
+- [x] T017 [P] [US2] Create sample featured packages in `data/packages.json` per `specs/001-travel-landing-site/contracts/content-schemas.md`
+- [x] T018 [P] [US2] Create package grid template in `components/packages.html`
+- [x] T019 [P] [US2] Implement mobile-first package card styles in `css/components/packages.css`
+- [x] T020 [US2] Implement package rendering, detail display, and Inquire CTA pre-selection in `js/components/packages.js`
+- [x] T021 [US2] Add empty-state "Contact us for custom travel" CTA in `js/components/packages.js` when no featured packages exist
+- [x] T022 [US2] Register packages component in `js/main.js` and add stylesheet link in `index.html`
 
 **Checkpoint**: Package discovery and package-to-inquiry flow working independently
 
@@ -89,24 +89,24 @@
 
 ### Implementation for User Story 3
 
-- [ ] T023 [P] [US3] Create hero section template in `components/hero.html` with headline placeholders and CTA linking to `#contact`
-- [ ] T024 [P] [US3] Implement mobile-first hero styles in `css/components/hero.css`
-- [ ] T025 [P] [US3] Create about section template in `components/about.html` with mission and differentiators list
-- [ ] T026 [P] [US3] Implement about section styles in `css/components/about.css`
-- [ ] T027 [P] [US3] Create travel services data in `data/services.json` per content schema
-- [ ] T028 [P] [US3] Create services grid template in `components/services.html`
-- [ ] T029 [P] [US3] Implement services grid styles in `css/components/services.css`
-- [ ] T030 [US3] Implement services rendering from `data/services.json` in `js/components/services.js`
-- [ ] T031 [P] [US3] Create customer testimonials in `data/testimonials.json`
-- [ ] T032 [P] [US3] Create testimonial cards template in `components/testimonials.html`
-- [ ] T033 [P] [US3] Implement testimonial card styles in `css/components/testimonials.css`
-- [ ] T034 [US3] Wire testimonial rendering from `data/testimonials.json` in `js/main.js`
-- [ ] T035 [P] [US3] Create travel gallery entries in `data/gallery.json`
-- [ ] T036 [P] [US3] Create gallery grid template in `components/gallery.html`
-- [ ] T037 [P] [US3] Implement gallery grid styles in `css/components/gallery.css`
-- [ ] T038 [US3] Implement lazy-loading gallery renderer in `js/components/gallery.js`
-- [ ] T039 [US3] Bind hero and about content from `data/company.json` in `js/main.js`
-- [ ] T040 [US3] Register hero, about, services, testimonials, and gallery components in `js/main.js` and add stylesheet links in `index.html`
+- [x] T023 [P] [US3] Create hero section template in `components/hero.html` with headline placeholders and CTA linking to `#contact`
+- [x] T024 [P] [US3] Implement mobile-first hero styles in `css/components/hero.css`
+- [x] T025 [P] [US3] Create about section template in `components/about.html` with mission and differentiators list
+- [x] T026 [P] [US3] Implement about section styles in `css/components/about.css`
+- [x] T027 [P] [US3] Create travel services data in `data/services.json` per content schema
+- [x] T028 [P] [US3] Create services grid template in `components/services.html`
+- [x] T029 [P] [US3] Implement services grid styles in `css/components/services.css`
+- [x] T030 [US3] Implement services rendering from `data/services.json` in `js/components/services.js`
+- [x] T031 [P] [US3] Create customer testimonials in `data/testimonials.json`
+- [x] T032 [P] [US3] Create testimonial cards template in `components/testimonials.html`
+- [x] T033 [P] [US3] Implement testimonial card styles in `css/components/testimonials.css`
+- [x] T034 [US3] Wire testimonial rendering from `data/testimonials.json` in `js/main.js`
+- [x] T035 [P] [US3] Create travel gallery entries in `data/gallery.json`
+- [x] T036 [P] [US3] Create gallery grid template in `components/gallery.html`
+- [x] T037 [P] [US3] Implement gallery grid styles in `css/components/gallery.css`
+- [x] T038 [US3] Implement lazy-loading gallery renderer in `js/components/gallery.js`
+- [x] T039 [US3] Bind hero and about content from `data/company.json` in `js/main.js`
+- [x] T040 [US3] Register hero, about, services, testimonials, and gallery components in `js/main.js` and add stylesheet links in `index.html`
 
 **Checkpoint**: Trust-building sections render with company content and social proof
 
@@ -120,13 +120,13 @@
 
 ### Implementation for User Story 4
 
-- [ ] T041 [P] [US4] Create header with navigation links and contact shortcuts in `components/header.html`
-- [ ] T042 [P] [US4] Implement header and mobile hamburger menu styles in `css/components/header.css`
-- [ ] T043 [US4] Implement smooth scroll, mobile menu toggle, focus trap, and active nav highlighting in `js/components/navigation.js`
-- [ ] T044 [P] [US4] Create footer with phone, email, and Facebook links in `components/footer.html`
-- [ ] T045 [P] [US4] Implement footer styles in `css/components/footer.css`
-- [ ] T046 [US4] Populate header and footer contact links dynamically from `data/company.json` in `js/main.js`
-- [ ] T047 [US4] Register header and footer components in `js/main.js` and add stylesheet links in `index.html`
+- [x] T041 [P] [US4] Create header with navigation links and contact shortcuts in `components/header.html`
+- [x] T042 [P] [US4] Implement header and mobile hamburger menu styles in `css/components/header.css`
+- [x] T043 [US4] Implement smooth scroll, mobile menu toggle, focus trap, and active nav highlighting in `js/components/navigation.js`
+- [x] T044 [P] [US4] Create footer with phone, email, and Facebook links in `components/footer.html`
+- [x] T045 [P] [US4] Implement footer styles in `css/components/footer.css`
+- [x] T046 [US4] Populate header and footer contact links dynamically from `data/company.json` in `js/main.js`
+- [x] T047 [US4] Register header and footer components in `js/main.js` and add stylesheet links in `index.html`
 
 **Checkpoint**: Multi-channel contact accessible site-wide via persistent header and footer
 
@@ -140,11 +140,11 @@
 
 ### Implementation for User Story 5
 
-- [ ] T048 [P] [US5] Create FAQ entries in `data/faq.json` covering booking, quotation, inclusions, payment, and follow-up categories
-- [ ] T049 [P] [US5] Create accordion markup template in `components/faq.html` with contact CTA at section end
-- [ ] T050 [P] [US5] Implement accordion styles in `css/components/faq.css`
-- [ ] T051 [US5] Implement keyboard-accessible FAQ accordion with `aria-expanded` and `aria-controls` in `js/components/faq.js`
-- [ ] T052 [US5] Register FAQ component in `js/main.js` and add stylesheet link in `index.html`
+- [x] T048 [P] [US5] Create FAQ entries in `data/faq.json` covering booking, quotation, inclusions, payment, and follow-up categories
+- [x] T049 [P] [US5] Create accordion markup template in `components/faq.html` with contact CTA at section end
+- [x] T050 [P] [US5] Implement accordion styles in `css/components/faq.css`
+- [x] T051 [US5] Implement keyboard-accessible FAQ accordion with `aria-expanded` and `aria-controls` in `js/components/faq.js`
+- [x] T052 [US5] Register FAQ component in `js/main.js` and add stylesheet link in `index.html`
 
 **Checkpoint**: FAQ reduces booking uncertainty and links to inquiry path
 
@@ -156,15 +156,15 @@
 
 Reference: `.specify/memory/constitution.md` — Principles IV, VII, VIII, XI
 
-- [ ] T053 [P] Add WebP `<picture>` elements with fallback, explicit dimensions, and lazy loading in hero, package, and gallery renderers (`components/hero.html`, `js/components/packages.js`, `js/components/gallery.js`)
-- [ ] T054 [P] Verify mobile responsiveness at 320px, 375px, 768px, and 1024px across all files in `css/components/`
-- [ ] T055 [P] Complete accessibility pass: contrast ratios, focus-visible states, form `aria-describedby`, and `prefers-reduced-motion` rules in `css/base.css`
-- [ ] T056 [P] Audit SEO title, meta description, heading hierarchy, and JSON-LD schema in `index.html`
-- [ ] T057 Verify low-friction inquiry paths: CTAs on hero, packages, and FAQ reach `#contact` within one click
-- [ ] T058 [P] Validate all files in `data/` against `specs/001-travel-landing-site/contracts/content-schemas.md`
-- [ ] T059 [P] Add image `onerror` placeholder handlers in `js/components/packages.js` and `js/components/gallery.js`
-- [ ] T060 Configure GitHub Pages deployment from `main` branch root and note live URL in `specs/001-travel-landing-site/quickstart.md`
-- [ ] T061 Run manual acceptance tests from `specs/001-travel-landing-site/quickstart.md` including Lighthouse mobile performance and accessibility audits
+- [x] T053 [P] Add WebP `<picture>` elements with fallback, explicit dimensions, and lazy loading in hero, package, and gallery renderers (`components/hero.html`, `js/components/packages.js`, `js/components/gallery.js`)
+- [x] T054 [P] Verify mobile responsiveness at 320px, 375px, 768px, and 1024px across all files in `css/components/`
+- [x] T055 [P] Complete accessibility pass: contrast ratios, focus-visible states, form `aria-describedby`, and `prefers-reduced-motion` rules in `css/base.css`
+- [x] T056 [P] Audit SEO title, meta description, heading hierarchy, and JSON-LD schema in `index.html`
+- [x] T057 Verify low-friction inquiry paths: CTAs on hero, packages, and FAQ reach `#contact` within one click
+- [x] T058 [P] Validate all files in `data/` against `specs/001-travel-landing-site/contracts/content-schemas.md`
+- [x] T059 [P] Add image `onerror` placeholder handlers in `js/components/packages.js` and `js/components/gallery.js`
+- [x] T060 Configure GitHub Pages deployment from `main` branch root and note live URL in `specs/001-travel-landing-site/quickstart.md`
+- [x] T061 Run manual acceptance tests from `specs/001-travel-landing-site/quickstart.md` including Lighthouse mobile performance and accessibility audits
 
 ---
 
@@ -269,4 +269,4 @@ Delivers a working inquiry form with company contact fallback — satisfies the 
 
 **Parallel opportunities**: 28 tasks marked [P]  
 **Independent test criteria**: Defined at each user story checkpoint  
-**Format validation**: All 61 tasks use `- [ ] T### [P?] [US?]` format with file paths
+**Format validation**: All 61 tasks use `- [x] T### [P?] [US?]` format with file paths

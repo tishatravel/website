@@ -1,0 +1,18 @@
+.about__grid {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.about__list {
+  margin-bottom: var(--space-lg);
+}
+
+.about__list li {
+  margin-bottom: var(--space-sm);
+}
+
+@media (min-width: 768px) {
+  .about__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

@@ -1,0 +1,46 @@
+.contact__grid {
+  display: grid;
+  gap: var(--space-xl);
+}
+
+.contact__channels {
+  list-style: none;
+  padding: 0;
+}
+
+.contact__channels li {
+  margin-bottom: var(--space-md);
+}
+
+.contact__form-wrap {
+  background: var(--color-bg);
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.form-group--checkbox {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+}
+
+.form-group--checkbox input {
+  width: auto;
+  margin-top: 4px;
+}
+
+.form-group--checkbox label {
+  font-weight: 400;
+  margin: 0;
+}
+
+.btn--block {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .contact__grid {
+    grid-template-columns: 1fr 1.5fr;
+  }
+}

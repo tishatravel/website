@@ -105,6 +105,9 @@
 
    Site available at: `https://<username>.github.io/<repo-name>/`
 
+   This repository includes `.nojekyll` at the root so GitHub Pages serves static
+   assets correctly. Deploy from the `main` branch, `/ (root)` folder.
+
 4. **Optional: Custom domain**
 
    - Add `CNAME` file with domain name at repo root
