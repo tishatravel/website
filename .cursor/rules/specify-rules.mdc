@@ -1,0 +1,36 @@
+---
+description: Project Development Guidelines
+globs: ["**/*"]
+alwaysApply: true
+---
+
+# website Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2026-06-03
+
+## Active Technologies
+
+- HTML5, CSS3, ES2020+ JavaScript (vanilla, no transpilation) + None required; Web3Forms API (optional, single external endpoint for inquiry delivery) (001-travel-landing-site)
+
+## Project Structure
+
+```text
+backend/
+frontend/
+tests/
+```
+
+## Commands
+
+npm test && npm run lint
+
+## Code Style
+
+HTML5, CSS3, ES2020+ JavaScript (vanilla, no transpilation): Follow standard conventions
+
+## Recent Changes
+
+- 001-travel-landing-site: Added HTML5, CSS3, ES2020+ JavaScript (vanilla, no transpilation) + None required; Web3Forms API (optional, single external endpoint for inquiry delivery)
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->
